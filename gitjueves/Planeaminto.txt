@@ -1,0 +1,11 @@
+Planeaminto Web Site
+
+Lista de tareas
+1. Crear repositorio
+2. Crear Index
+3. Crear contenido Index
+4. Planificar resto del sitio, secciones, enlaces, imagenes, otros recursos, etc.
+
+U: untracked (sin seguimiento)
+A: agregado
+M: modificado
